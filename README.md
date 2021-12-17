@@ -1,3 +1,11 @@
+
+
+# 干货多多 
+### https://reactjs.org/tutorial/tutorial.html
+### 建议跟着这个tutorial 慢慢做，仔细琢磨，You may spend at least 8 hours on it
+### This will help you develop muscle memory and a stronger understanding.
+###  
+###  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
